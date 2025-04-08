@@ -888,7 +888,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "eframe_template"
+name = "eframe_first"
 version = "0.1.0"
 dependencies = [
  "eframe",
